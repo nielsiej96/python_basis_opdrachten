@@ -22,3 +22,4 @@ Laat python het rekenwerk doen en ga het niet zelf uitrekenen!
 > Dit weten we over joe, bob en fred:  
 > De totale waarde van alle leeftijden bij elkaar opgeteld = 60  
 > De gemiddelde leeftijd van deze boys is: 20
+
