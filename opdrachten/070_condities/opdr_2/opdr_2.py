@@ -6,8 +6,10 @@
 
 # Hier start de for-loop
 
-my_list = [43948, 878768, 38768, 87555, 765765]
+# Lijst van getallen
+getallen = [43948, 878768, 38768, 87555, 765765]
 
-# for...:
-#   if...:
-#       print()
+# Loop door de lijst en controleer of elk getal deelbaar is door 3
+for num in getallen:
+    if num % 3 == 0:
+        print(num)
