@@ -1,0 +1,3 @@
+Wat vind je van de huidige regering?: test
+Wat vind je van de Python-lessen tot nu toe?: test
+Wat vind jij de mooiste stad van Nederland?: test
